@@ -17,3 +17,5 @@ Para usar executar o *script* basta chamar o nome da *allias* criada:
 ```
 ajustar-luz 34
 ```
+
+=)

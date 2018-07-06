@@ -15,7 +15,12 @@ source ~/.bashrc
 
 Para usar executar o *script* basta chamar o nome da *allias* criada:
 ```
-ajustar-luz 34
+ajustar-luz
 ```
+
+O *script* aceita dois parâmetros:
+
+- \-s: para definir o nível de luz
+- \-c: para mostrar o nível de luz atual
 
 =)

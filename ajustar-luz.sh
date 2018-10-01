@@ -1,5 +1,3 @@
-# comentario teste
-
 brightness_file="/sys/class/backlight/intel_backlight/brightness"
 max_brightness=$(cat /sys/class/backlight/intel_backlight/max_brightness)
 
